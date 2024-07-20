@@ -4,7 +4,7 @@
 
 I’m currently studying computer science at John Abbott College. I'm passionate about Frontend, Backend Development and ML.
 
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-feher-b7567b203/)
+[![Linkedin](https://img.shields.io/badge/-BogdanFeher-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-feher-b7567b203/)
 ![](https://komarev.com/ghpvc/?username=bogdanSgithub)
 
 
