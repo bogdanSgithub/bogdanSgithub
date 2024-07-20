@@ -8,8 +8,8 @@ I’m currently studying computer science at John Abbott College. I'm passionate
 * Learning Machine Learning using Scikit-Learn 💡
 * Looking forward to Quant positions 📈
 
-[![Linkedin](https://img.shields.io/badge/-Bogdan_Feher-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-feher-b7567b203/)
-[![Gmail](https://img.shields.io/badge/-Bogdan_Feher-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bogdan.feher@gmail.com)
+<a href="https://www.linkedin.com/in/bogdan-feher-b7567b203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:bogdan.feher@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 ![](https://komarev.com/ghpvc/?username=bogdanSgithub)
 
 <img align='left' alt='Python' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
