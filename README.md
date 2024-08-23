@@ -1,7 +1,5 @@
 # Hi I'm Bogdan 👋
 
-**`Fullstack Developer`**
-
 I’m currently studying computer science at John Abbott College. I'm passionate about Frontend, Backend Development and ML.
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web Development using React 🌐
