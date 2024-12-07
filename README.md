@@ -1,6 +1,6 @@
 # Hi I'm Bogdan 👋
 
-I’m currently studying computer science at John Abbott College. I'm passionate about Frontend, Backend Development and ML.
+I’m currently studying computer science at John Abbott College. I'm passionate about Backend Development and ML.
 ### 💼  Things that I'm currently working on: 
 * Learning Machine Learning using Scikit-Learn and Streamlit 💡
 * Learning Front-End Web Development using React 🌐
