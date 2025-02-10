@@ -2,9 +2,9 @@
 
 I’m currently studying computer science at John Abbott College. I'm passionate about Backend Development and ML.
 ### 💼  Things that I'm currently working on: 
+* Learning Object Recognition on Raspberry Pi using imx500 camera, YOLOv8
 * Learning Machine Learning using Scikit-Learn and Streamlit 💡
 * Learning Front-End Web Development using React 🌐
-* Advent of Code 2024 :)
 
 <a href="https://www.linkedin.com/in/bogdan-feher-b7567b203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:bogdan.feher@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
