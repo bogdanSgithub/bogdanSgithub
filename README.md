@@ -1,7 +1,5 @@
 # Hi I'm Bogdan 👋
 
-<a href="https://www.linkedin.com/in/bogdan-feher-b7567b203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:bogdan.feher@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 ![](https://komarev.com/ghpvc/?username=bogdanSgithub)
 
 <img align='left' alt='Python' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
